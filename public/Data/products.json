@@ -1,0 +1,147 @@
+[
+  {
+    "idProduct":"1",
+    "title":"Creme de Café Tradicional",
+    "image":"https://cafecaramello.com.br/wp-content/uploads/2022/11/foto-sabores01.png",
+    "price":54.50,
+    "description":"",
+    "status":"true"
+  },
+  {
+    "idProduct":"2",
+    "title":"Creme de Café Morango",
+    "image":"https://cafecaramello.com.br/wp-content/uploads/2022/11/foto-sabores02.png",
+    "price":45.90,
+    "description":"",
+    "status":"true"
+  }
+  ,
+  {
+    "idProduct":"3",
+    "title":"Creme de Café Rum",
+    "image":"https://cafecaramello.com.br/wp-content/uploads/2022/11/foto-sabores03.png",
+    "price":123.00,
+    "description":"",
+    "status":"true"
+  },
+  {
+    "idProduct":"4",
+    "title":"Creme de Café Baunilha",
+    "image":"https://cafecaramello.com.br/wp-content/uploads/2022/11/foto-sabores04.png",
+    "price":22.00,
+    "description":"",
+    "status":"true"
+  },
+  {
+    "idProduct":"5",
+    "title":"Creme de Café Paçoca",
+    "image":"https://cafecaramello.com.br/wp-content/uploads/2022/11/foto-sabores05.png",
+    "price":23.00,
+    "description":"",
+    "status":"true"
+  },
+  {
+    "idProduct":"6",
+    "title":"Creme de Café Banana",
+    "image":"https://cafecaramello.com.br/wp-content/uploads/2022/11/foto-sabores06.png",
+    "price":42.00,
+    "description":"",
+    "status":"true"
+  },
+  {
+    "idProduct":"7",
+    "title":"Creme de Café Amarula",
+    "image":"https://cafecaramello.com.br/wp-content/uploads/2022/11/foto-sabores07.png",
+    "price":212.00,
+    "description":"",
+    "status":"true"
+  },
+  {
+    "idProduct":"8",
+    "title":"Creme de Café Menta",
+    "image":"https://cafecaramello.com.br/wp-content/uploads/2022/11/foto-sabores08.png",
+    "price":421.00,
+    "description":"",
+    "status":"true"
+  },
+  {
+    "idProduct":"9",
+    "title":"Creme de Café Caramelo",
+    "image":"https://cafecaramello.com.br/wp-content/uploads/2022/11/foto-sabores09.png",
+    "price":423.00,
+    "description":"",
+    "status":"true"
+  },
+  {
+    "idProduct":"10",
+    "title":"Creme de Café Frutas Vermelhas",
+    "image":"https://cafecaramello.com.br/wp-content/uploads/2022/11/foto-sabores10.png",
+    "price":52.00,
+    "description":"",
+    "status":"true"
+  },
+  {
+    "idProduct":"11",
+    "title":"Creme de Café Limão",
+    "image":"https://cafecaramello.com.br/wp-content/uploads/2022/11/foto-sabores11.png",
+    "price":220.00,
+    "description":"",
+    "status":"true"
+  },
+  {
+    "idProduct":"12",
+    "title":"Creme de Café 100% Mineiro",
+    "image":"https://cafecaramello.com.br/wp-content/uploads/2022/11/foto-sabores12.png",
+    "price":521.00,
+    "description":"",
+    "status":"true"
+  },
+  {
+    "idProduct":"13",
+    "title":"Creme de Café Raspas de Chocolate",
+    "image":"https://cafecaramello.com.br/wp-content/uploads/2022/11/foto-sabores13.png",
+    "price":52.00,
+    "description":"",
+    "status":"true"
+  },
+  {
+    "idProduct":"14",
+    "title":"Creme de Café Panetone",
+    "image":"https://cafecaramello.com.br/wp-content/uploads/2022/11/foto-sabores14.png",
+    "price":63.00,
+    "description":"",
+    "status":"true"
+  },
+  {
+    "idProduct":"15",
+    "title":"Creme de Café Black 50%",
+    "image":"https://cafecaramello.com.br/wp-content/uploads/2022/11/foto-sabores16.png",
+    "price":74.00,
+    "description":"",
+    "status":"true"
+  },
+  {
+    "idProduct":"16",
+    "title":"Creme de Café Black 75%",
+    "image":"https://cafecaramello.com.br/wp-content/uploads/2022/11/foto-sabores17.png",
+    "price":73.00,
+    "description":"",
+    "status":"true"
+  },
+  {
+    "idProduct":"17",
+    "title":"Creme de Café Expresso",
+    "image":"https://cafecaramello.com.br/wp-content/uploads/2022/11/foto-sabores18.png",
+    "price":4.00,
+    "description":"",
+    "status":"true"
+  },
+  {
+    "idProduct":"18",
+    "title":"Creme de Café Descafeínado",
+    "image":"https://cafecaramello.com.br/wp-content/uploads/2022/11/foto-sabores20.png",
+    "price":85.00,
+    "description":"",
+    "status":"true"
+  }
+]

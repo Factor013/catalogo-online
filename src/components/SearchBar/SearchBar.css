@@ -1,0 +1,27 @@
+.search_form{
+  display: flex;
+  flex-direction: row;
+  padding: 5px;
+  background-color: white;
+  border-radius: 20px;
+}
+.search_input{
+  border-radius: 20px;
+  border:none;
+  flex-grow: 1;
+  outline: none;
+  padding: 5px;
+}
+.search_button{
+  color: black;
+  margin: 3px;
+  display: flex;
+  font-size: 16px;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(155, 155, 155, 0);
+  border: none;
+}
+.search_button:hover{
+  cursor: pointer;
+}

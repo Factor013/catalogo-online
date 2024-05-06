@@ -1,0 +1,25 @@
+.header{
+  background-color:rgba(77, 49, 24, 0.9) ;
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+}
+.header > div{
+  align-items: center;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  margin: 0px 10px 0px 10px;
+}
+.logo{
+  width: 50px;
+}
+.title{
+  color: white;
+  font-size: 23px;
+  font-weight: bold;
+  text-shadow: rgb(255, 255, 255) 1px 0 10px;
+}
+
+

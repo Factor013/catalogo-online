@@ -1,10 +1,11 @@
 import React from 'react';
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
+
 import './Admin.css';
 
-function Admin() {
 
+function Admin() {
   function initState(){
     return {user:'', password: ''};
   }
@@ -19,6 +20,7 @@ function Admin() {
       [name]:value,
     });
   }
+  
   function logar(){
     const user = 'Factor013';
     const password =  '1234';

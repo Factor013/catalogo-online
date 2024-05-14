@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import Admin from './pages/Admin/Admin';
+import Cadastro from './pages/Cadastro/Cadastro';
 import {createBrowserRouter,
   RouterProvider,
 } from 'react-router-dom';
@@ -15,6 +16,10 @@ const router = createBrowserRouter([
   {
     path: '/admin',
     element: <Admin/> ,
+  },
+  {
+    path: '/Cadastro',
+    element: <Cadastro/> ,
   },
 ]);
 
